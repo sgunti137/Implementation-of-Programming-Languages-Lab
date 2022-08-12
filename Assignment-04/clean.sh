@@ -1,0 +1,1 @@
+rm -r lex.yy.c  lex.yy.o  main main.o yacc.tab.c  yacc.tab.h  yacc.tab.o
